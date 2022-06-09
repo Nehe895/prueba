@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="underEmail">E-mail</string>
+    <string name="underPassword">Password</string>
+    <string name="forgetPass"><u>forget your password?</u></string>
+    <string name="activeAcc"><u>LOG IN</u></string>
+    <string name="create"><u>SIGN UP</u></string>
+
+</resources>
